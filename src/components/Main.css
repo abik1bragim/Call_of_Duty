@@ -1,0 +1,7 @@
+.M_img{
+    width: 90%;
+    height: 67%;
+    /* border: 2px solid red; */
+    background: url("../image/1024_2000.webp") no-repeat center/cover;
+    object-fit: cover;
+}

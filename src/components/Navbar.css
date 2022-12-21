@@ -1,0 +1,25 @@
+ul li img {
+    transition: .6s !important;
+}
+
+ul li:hover img {
+    transform: rotate(-180deg);
+    transition: .6s;
+}
+
+nav a:nth-child(1) {
+    transition: .7s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav a:hover span {
+    text-shadow: 1px 1px 11px rgba(149, 150, 150, 1);
+    transition: .7s;
+}
+
+nav button {
+    text-shadow: 5px 5px 26px rgba(0, 83, 92, 1);
+
+}
